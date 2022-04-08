@@ -1,4 +1,5 @@
 # Simple Stackable Drawers
+![6x3 drawers](stackable-drawers.jpg)
 Small Storage and organizers are important if you have zillions of tiny tiny stuff around.
 I used to buy this kind of drawers. But they all have annoying stucking problems. Also you never find the same model again and have tons of unmatching organizers around.
 
