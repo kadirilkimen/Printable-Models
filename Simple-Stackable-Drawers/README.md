@@ -5,6 +5,9 @@ I used to buy this kind of drawers. But they all have annoying stucking problems
 So here is a simple, stackable, drawer model. Optimized for fast printing in Surface(? vase?) mode.
 
 Recommended basic printing parameters:
+
 Layer height : 0.3mm
+
 Line width : 0.6mm
+
 Speed : 60 - 100mm/s
